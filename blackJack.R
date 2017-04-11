@@ -16,4 +16,4 @@ blckJack(20,22)
 blckJack(22,19)
 blckJack(22,22)
 
-#ichanged it at 15.09
+#test 2 1530
